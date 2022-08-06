@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "magic_brick",
+  "pattern": [
+    " # ",
+    "#@#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "makingmagic:raw_flora"
+    },
+    "@": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result":
+  {
+    "item": "makingmagic:magic_brick"
+  }
+}

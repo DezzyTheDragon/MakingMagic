@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "" :
+    {
+      "model": "makingmagic:block/portal_core"
+    }
+  }
+}

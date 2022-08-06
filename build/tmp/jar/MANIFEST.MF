@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: MakingMagicMod
+Implementation-Version: 1.0
+Specification-Vendor: makingmagicsareus
+Specification-Title: makingmagic
+Implementation-Timestamp: 2022-07-27T20:14:11-0700
+Specification-Version: 1
+Implementation-Vendor: makingmagicsareus
+

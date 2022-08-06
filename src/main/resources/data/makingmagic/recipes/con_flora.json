@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "con_flora",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "makingmagic:raw_flora"
+    }
+  },
+  "result":
+  {
+    "item": "makingmagic:con_flora"
+  }
+}

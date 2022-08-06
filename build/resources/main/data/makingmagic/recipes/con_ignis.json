@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "con_ignis",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "makingmagic:raw_ignis"
+    }
+  },
+  "result":
+  {
+    "item": "makingmagic:con_ignis"
+  }
+}

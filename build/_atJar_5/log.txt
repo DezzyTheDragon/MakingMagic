@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-8.0.332.9-hotspot\bin\java.exe
+Arguments: '--inJar, C:\Users\DestinyG\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.39\forge-1.16.5-36.2.39-injected.jar, --outJar, C:\Users\DestinyG\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.39_mapped_snapshot_20210309-1.16.5\forge-1.16.5-36.2.39_mapped_snapshot_20210309-1.16.5.jar, --logFile, accesstransform.log, --atFile, C:\Dev\MakingMagicMod\build\_atJar_5\parent_at.cfg'
+Classpath:
+ - C:\Users\DestinyG\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: C:\Dev\MakingMagicMod\build\_atJar_5
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "con_aqua",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "makingmagic:raw_aqua"
+    }
+  },
+  "result":
+  {
+    "item": "makingmagic:con_aqua"
+  }
+}

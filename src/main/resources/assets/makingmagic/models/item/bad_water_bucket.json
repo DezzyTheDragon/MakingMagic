@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "makingmagic:item/bad_water_bucket"
+  }
+}

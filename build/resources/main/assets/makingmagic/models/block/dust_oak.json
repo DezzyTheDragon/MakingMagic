@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "makingmagic:block/dust_oak_top",
+    "side": "makingmagic:block/dust_oak"
+  }
+}

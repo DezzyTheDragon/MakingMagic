@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "makingmagic:block/portal_input",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "makingmagic:block/portal_input"
+    },
+    "facing=south": {
+      "model": "makingmagic:block/portal_input",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "makingmagic:block/portal_input",
+      "y": 270
+    }
+  }
+}

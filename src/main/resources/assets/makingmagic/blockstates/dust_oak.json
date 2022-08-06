@@ -1,0 +1,17 @@
+{
+  "variants":
+  {
+    "axis=x": {
+      "model": "makingmagic:block/dust_oak_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "makingmagic:block/dust_oak"
+    },
+    "axis=z": {
+      "model": "makingmagic:block/dust_oak_horizontal",
+      "x": 90
+    }
+  }
+}
